@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello! 👋
 
+I'm Muhammad Uzair from Pakistan and currently persuing master degree in Computer Vision from Mohamed Bin Zayed University of Artitficial Intelligence (MBZUAI), Abu Dhabi, UAE.
+
+- 🔭 I’m currently working on multi-modal learning and object detection with transformers
+- 🌱 I’m currently learning to be a good researcher
+- 📫 How to reach me: uzair.khattak@mbzuai.ac.ae
 <!--
 **Uzair-Khattak/Uzair-Khattak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
