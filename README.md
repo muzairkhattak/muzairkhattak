@@ -2,7 +2,7 @@
 
 I'm Muhammad Uzair from Pakistan and currently working as an Associate Researcher at the [IVAL](https://www.ival-mbzuai.com/) lab at MBZUAI. Previously I completed my master's degree in Computer Vision from Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), Abu Dhabi, UAE.
 
-- 🔭 I’m currently working on multi-modal learning and utilizing language (and more recently LLMs) as a supervision signal for vision tasks.
+- 🔭 I’m currently working on multi-modal learning and utilizing language (more recently LLMs) as a supervision signal for vision tasks.
 - 🌱 I like to play table tennis and football, and to hang out with my friends.
 - 📫 How to reach me: uzair.khattak@mbzuai.ac.ae
 <!--
